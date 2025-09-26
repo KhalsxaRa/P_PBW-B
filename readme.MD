@@ -29,5 +29,7 @@ membuat readme dalam repo melalui :
     - klik simbol new file dan ketik nama readme.MD akan otomatis terformat
     - buat readme dan lihat output dengan shortcut ctr  shift v
     - setelah selesai, upload file melalui github desktop klik "commit 1 file to main"
+    - pencet ctrl + P untuk push origin
+    
 
 
